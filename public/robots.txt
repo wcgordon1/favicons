@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /blog/
+Allow: /code-platform/
+Allow: /nocode-platform/
+Allow: /sitemap.xml
+
+Sitemap: https://faviconconverter.com/sitemap.xml 
